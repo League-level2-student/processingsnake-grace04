@@ -68,7 +68,7 @@ void setup() {
   head = new Segment(50, 50);
 
   // 11. Use the frameRate(int rate) method to set the rate to 20.
-    frameRate(15);
+    frameRate(20);
 }
 
 void draw() {
